@@ -1,0 +1,32 @@
+html{
+  margin: 20px
+}
+body{
+  font-family: Verdana;
+  text-align: center;
+  background-color: black;
+}
+h1{
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.cta{
+  color: Aquamarine;
+  font-size: 16px;
+}
+h2{
+  font-size: 42px;
+  font-weight: 300;
+  color: white;
+  font-weight: bold;
+
+}
+p{
+  font-size: 21px;
+  color: gray;
+}
+.footer{
+  text-align: right;
+}
